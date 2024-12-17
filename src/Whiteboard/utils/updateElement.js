@@ -1,5 +1,5 @@
 import { toolTypes } from '../../constants';
-import { createElement } from '../utils';
+import { createElement } from './index';
 import { store } from '../../store/store';
 import { setElements } from '../whiteboardSlice';
 import { emitElementUpdate } from '../../socketConn/socketConn';

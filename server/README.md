@@ -4,7 +4,7 @@ This project is a **real-time collaborative whiteboard** application built using
 
 ---
 
-## Features 🚀
+## Features 🚀 
 
 - **Drawing Tools**: Users can draw lines, rectangles, and text on the whiteboard.
 - **Real-Time Updates**: Changes made by one user are immediately reflected for all connected users.
